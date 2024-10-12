@@ -1,0 +1,9 @@
+html{
+  background-color: rgb(224, 224, 233);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
